@@ -1,0 +1,21 @@
+Ali,64542725
+Negar,(071)5566-2030
+Negar,09175601456
+Farhad,+989125306032
+Zahra,0016437089
+~
+Search> Negar
+Negar,(071)5566-2030
+Negar,09175601456
+Search> farhAD
++989125306032
+Search> list(2)
+Farhad,+989125306032
+Zahra,0016437089
+Search> 91
+Negar
+Farhad
+Search> (071)5566-2030
+Negar
+
+Goodbye
